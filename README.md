@@ -2,7 +2,7 @@
 <div align="center">
 
 # Be your **`yoonverse`**
-사용자 경험과 데이터를 기반으로 흐름을 설계하는 Developer  
+사용자 경험과 데이터를 기반으로 흐름을 설계하는 Planner 
 
 </div>
 
