@@ -1,97 +1,138 @@
+<div align="center">
+
+# I am your **`yooneverse`**
+
+사용자 경험과 데이터를 기반으로  
+서비스 흐름과 협업 구조를 설계합니다.
+
+<br />
+
+<img src="https://img.shields.io/badge/User%20Flow-FF7A59?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Collaboration-3B82F6?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Documentation-14B8A6?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Thinking-F59E0B?style=flat-square&logoColor=white" />
+
+<br />
+<sub>Flow-first · Detail-aware · System-minded</sub>
+
+</div>
+
+---
+
+## About
+
+기능을 만드는 것에서 끝나지 않고,  
+사용자가 어디에서 멈추고 무엇을 헷갈리는지까지 읽어내며  
+서비스 전체의 흐름을 정리하는 사람입니다.
+
+요구사항 정리, 화면 흐름 설계, 예외 케이스 점검, 협업 문서화까지  
+하나의 연결된 작업으로 바라보는 방식을 좋아합니다.
+
+> 화면 하나보다 전체 흐름을 먼저 보고, 구현 이후의 운영까지 함께 생각합니다.
+
+---
+
+## Featured Projects
+
+| Project | Summary |
+| --- | --- |
+| [`project-eumgil`](https://github.com/yooneverse/project-eumgil) | 보행약자를 위한 배리어프리 인클루시브 길찾기 서비스 |
+| [`project-aekkim`](https://github.com/yooneverse/project-aekkim) | 구독 및 해지 관리를 도와주는 빅데이터 추천 기반 서비스 |
+| [`project-arnnect`](https://github.com/yooneverse/project-arnnect) | 신진예술인 전시 플랫폼을 온라인으로 여는 웹디자인 프로젝트 |
+| [`project_ILU`](https://github.com/yooneverse/project_ILU) | 취업의 길을 잃은 이들을 위한 방향성 탐색 기반 기업 추천 서비스 |
+| [`maeulbot`](https://github.com/yooneverse/maeulbot) | 일정 및 공지 기반 알림 자동화 플로우 레포지토리 |
+
+---
+
+## What I Do
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/Flow%20Design-FF7A59?style=flat-square&logoColor=white" />
+
+- 사용자 행동 기준으로 화면과 기능의 순서를 설계합니다.
+- 상태 변화와 예외 상황까지 포함해 흐름을 정리합니다.
+- 다음 행동이 자연스럽게 이어지는 구조를 중요하게 봅니다.
+
+  </td>
+    <td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/Collaboration-3B82F6?style=flat-square&logoColor=white" />
+
+- 브랜치 전략, 커밋 컨벤션, 화면 명세를 문서로 정리합니다.
+- 기획자와 구현자 사이의 해석 차이를 줄이는 데 집중합니다.
+- 협업이 오래 유지될 수 있는 기준과 자동화 흐름을 함께 만드는 편입니다.
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
+
+프로젝트마다 맡은 영역에 따라 프론트엔드, 백엔드, AI 연동, 운영 흐름까지 함께 경험했습니다.
+
+#### FRONTEND
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+</p>
+
+#### 3D/INTERACTION/UX
+
+<p>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Three%20Fiber-0F172A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+</p>
+
+#### BACKEND/DB/API
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" />
+</p>
+
+#### AI/INFRA/TOOL
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/BentoML-2563EB?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## Work Principles
+
+- 사용자 행동을 기준으로 문제를 정의합니다.
+- 예외를 줄이는 일관된 흐름을 설계합니다.
+- 판단 기준과 과정을 문서로 남깁니다.
+- 감이 아니라 데이터와 근거로 개선합니다.
+
+---
 
 <div align="center">
 
-# Be your **`yoonverse`**
-사용자 경험과 데이터를 기반으로 흐름을 설계하는 Planner 
-
-</div>
-
-<hr style="border:0; border-top:1px solid #e5e7eb; margin:28px 0;" />
-
-
-## | What I’m Working On
-- SSAFY 웹·AI 프로젝트를 통해 프로젝트 운영 흐름과 협업 방식 학습  
-- 알고리즘·자료구조 문제 풀이로 기본기 및 사고력 확장  
-- 조직문화·HR 도메인의 실제 요구 분석 및 서비스 구조화 연습  
-
-<hr style="border:0; border-top:1px solid #e5e7eb; margin:28px 0;" />
-
-
-# | About Me
-
-## | Backend
-<div style="border:1px solid #e5e5e5; border-radius:10px; padding:16px; background:#fafafa;">
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-EE4C2C?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
-</p>
-
-- REST API 설계 및 구현  
-- React,Kotlin 기반 서비스 구조 설계 및 기능 분리  
-- 모델링·정규화 기반 DB 구조 작성  
-- API 흐름을 사용자 플로우와 맞춰 일관성 유지  
-</div>
-
-<br/>
-
-## | Frontend
-<div style="border:1px solid #e5e5e5; border-radius:10px; padding:16px; background:#fafafa;">
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-</p>
-
-- Composition API 기반 컴포넌트 구조화  
-- API 연동 및 상태 관리  
-- 사용자 행동 기반 인터랙션 구성  
-- 간결한 UI 구현 및 예외 처리  
-</div>
-
-<br/>
-
-## | Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-</p>
-
-<div style="background:#f8f8f8; border-left:4px solid #222; padding:12px 16px; border-radius:4px; max-width:600px;">
-• Git 기반 브랜치 전략 운영<br/>
-• 문서화·정책 정리, 서비스 흐름 다이어그램 작성<br/>
-• 기본 UI 구성 및 프로토타이핑  
-</div>
-
-<hr style="border:0; border-top:1px solid #e5e7eb; margin:28px 0;" />
-
-
-## | Projects & Work Highlights
-- 장소 데이터 정합성 검증 및 운영 프로세스 개선  
-- 사용자 조사 기반 공공 서비스 시나리오 설계  
-- 알고리즘·자료구조 학습 및 문제 풀이 기록  
-
-<hr style="border:0; border-top:1px solid #e5e7eb; margin:28px 0;" />
-
-
-## | Work Principles
-- 사용자 행동 기반 문제 정의  
-- 예외를 최소화하는 일관된 흐름 설계  
-- 판단 기준과 과정을 문서로 기록  
-- 데이터 기반 개선  
-
-<hr style="border:0; border-top:1px solid #e5e7eb; margin:28px 0;" />
-
-
-<div align="center">
-
-# Contact  
-GitHub · https://github.com/yoonverse
+<a href="https://github.com/yoonverse">
+  <img src="https://img.shields.io/badge/GitHub-yoonverse-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
