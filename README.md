@@ -131,7 +131,7 @@
 
 <div align="center">
 
-<a href="https://github.com/yoonverse">
+<a href="https://github.com/yooneverse">
   <img src="https://img.shields.io/badge/GitHub-yoonverse-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
