@@ -11,7 +11,8 @@
 <br />
 
 <img src="https://img.shields.io/badge/Planning-334155?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Project%20Managing-2563EB?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AX-2563EB?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Project%20Planning-256311?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Infra-0891B2?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Documentation-0F766E?style=for-the-badge&logoColor=white" />
 
@@ -43,8 +44,9 @@
 카카오 지도 운영 업무에서는 월 250건 이상의 장소 데이터를 검토하며  
 반복 오류를 11개 유형으로 분류하고 처리 기준을 정리했습니다.
 
-최근에는 Docker 기반 개인 프로젝트를 통해  
-서비스 실행 환경, 로그 확인, Health Check, 장애 알림을 구성했습니다.
+최근에는 Docker 기반 프로젝트를 통해  
+서비스 실행 환경, 로그 확인, Health Check, 장애 알림을 구성해 흐름을 설계했습니다.
+이 과정에서 AX의 기반이 되는 흐름 속 요소에 대한 이해를 높였습니다.
 
 <br />
 
