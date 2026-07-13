@@ -1,103 +1,257 @@
 <div align="center">
 
-# I’m your **`yooneverse`**
+<br />
 
-사용자 경험과 데이터를 기반으로
-서비스 흐름과 협업 구조를 설계합니다.
+# 김지윤
+
+### 서비스의 흐름을 이해하고
+
+### 문제를 실행 가능한 구조로 정리합니다.
 
 <br />
 
-<img src="https://img.shields.io/badge/User%20Flow-FF7A59?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Collaboration-3B82F6?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Documentation-14B8A6?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Thinking-F59E0B?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Planning-334155?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Project%20Managing-2563EB?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Infra-0891B2?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Documentation-0F766E?style=for-the-badge&logoColor=white" />
 
 <br />
-<sub>Flow-first · Detail-aware · System-minded</sub>
+<br />
+
+<sub>서비스 기획 · 개발 · 운영 · 문서화</sub>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:0891B2&height=3&section=header" width="100%" />
 
 </div>
 
----
+<br />
 
-## About Me
+## 소개
 
-기능을 만드는 것에서 끝나지 않고,
-사용자가 어디에서 멈추고 무엇을 헷갈리는지까지 살피며
-서비스 전체의 흐름을 정리하는 사람입니다.
 
-요구사항 정리, 화면 흐름 설계, 예외 케이스 점검, 협업 문서화까지
-하나의 연결된 작업으로 바라보는 방식을 좋아합니다.
+> **사용자와 기술 사이의 흐름을 이해하고,  
+> 문제가 발생했을 때 원인과 다음 행동을 정리합니다.**
 
-프로젝트에서는 팀장, 프론트엔드, 발표, 문서화 역할을 맡으며
-기획과 구현 사이의 해석 차이를 줄이고,
-팀원이 같은 기준으로 움직일 수 있는 구조를 만드는 데 집중해왔습니다.
+서비스 기획과 개발 프로젝트를 수행하며  
+사용자의 요청이 화면, 서버, 데이터로 이어지는 흐름을 경험했습니다.
 
-> 화면 하나보다 전체 흐름을 먼저 보고, 구현 이후의 운영까지 함께 생각합니다.
+팀장과 PM으로 일정·역할·산출물을 관리하고,  
+화면 명세와 API 명세를 정리해 협업 기준을 만들었습니다.
 
----
+카카오 지도 운영 업무에서는 월 250건 이상의 장소 데이터를 검토하며  
+반복 오류를 11개 유형으로 분류하고 처리 기준을 정리했습니다.
 
-## Featured Projects
+최근에는 Docker 기반 개인 프로젝트를 통해  
+서비스 실행 환경, 로그 확인, Health Check, 장애 알림을 구성했습니다.
 
-| Project                                                            | Summary                                       | Main Role                                                 |
-| ------------------------------------------------------------------ | --------------------------------------------- | --------------------------------------------------------- |
-| [`project-eumgil`](https://github.com/yooneverse/project-eumgil)   | 보행약자를 위한 배리어프리 인클루시브 길찾기 서비스                  | Flow Design · Mobile UI · Accessibility UI · Team Leading |
-| [`ops-monitor`](https://github.com/yooneverse/ops-monitor.git)     | 장애 대응 흐름과 모니터링 구조를 학습하기 위한 Docker 기반 인프라 프로젝트 | Infra · Monitoring · Incident Response           |
-| [`project-aekkim`](https://github.com/yooneverse/project-aekkim)   | 구독 및 해지 관리를 도와주는 빅데이터 추천 기반 서비스               | Planning · Web UI · Automation · Presentation             |
-| [`project-arnnect`](https://github.com/yooneverse/project-arnnect) | 신진예술인 전시 플랫폼을 온라인으로 여는 웹디자인 프로젝트              | UX Flow · Web UI · Visual Direction · Presentation        |
-| [`project_ILU`](https://github.com/yooneverse/project_ILU)         | 취업의 길을 잃은 이들을 위한 방향성 탐색 기반 기업 추천 서비스          | Recommendation Flow · Data Thinking · Service Planning    |
-| [`maeulbot`](https://github.com/yooneverse/maeulbot)               | 일정 및 공지 기반 알림 자동화 플로우 레포지토리                   | Automation · GitHub Actions · Documentation               |
+<br />
 
 ---
+## 핵심 역량
 
-## What I Do
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>01</strong><br />
+      <strong>문제 구조화</strong><br />
+      <sub>의견과 데이터를<br />실행 과제로 정리</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>02</strong><br />
+      <strong>프로젝트 운영</strong><br />
+      <sub>일정·역할·산출물<br />진행 흐름 관리</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>03</strong><br />
+      <strong>서비스 구현</strong><br />
+      <sub>웹·모바일 UI와<br />API 연결</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>04</strong><br />
+      <strong>운영 관점</strong><br />
+      <sub>로그와 상태 정보를 통한<br />문제 구간 확인</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+```mermaid
+flowchart LR
+    A["사용자 요구"] --> B["서비스 기획"]
+    B --> C["웹·모바일 구현"]
+    C --> D["API·데이터 연결"]
+    D --> E["실행 환경"]
+    E --> F["상태 점검과 운영"]
+
+    classDef default fill:#F8FAFC,stroke:#94A3B8,color:#0F172A,stroke-width:1px;
+    classDef point fill:#EFF6FF,stroke:#2563EB,color:#0F172A,stroke-width:1.5px;
+
+    class A,B,C,D,E default;
+    class F point;
+```
+
+---
+
+## 주요 프로젝트
+
+<table>
+  <tr>
+    <td width="34%" valign="top">
+
+### [`ops-monitor`](https://github.com/yooneverse/ops-monitor)
+
+**Docker 기반 서비스 상태 점검 및 장애 알림 프로젝트**
+
+`Docker` `Nginx` `FastAPI` `PostgreSQL`
+
+실행 환경 구성
+Health Check
+로그 분석
+장애 알림
+운영 문서화
+
+  </td>
+    <td width="33%" valign="top">
+
+### [`project-eumgil`](https://github.com/yooneverse/project-eumgil)
+
+**보행 약자를 위한 배리어프리 길찾기 서비스**
+
+`Kotlin` `Android` `Accessibility`
+
+팀장 및 PM
+모바일 UI
+접근성 화면
+API 연동
+최종 발표
+
+  </td>
+    <td width="33%" valign="top">
+
+### [`project-aekkim`](https://github.com/yooneverse/project-aekkim)
+
+**구독 현황 분석과 해지 관리를 지원하는 서비스**
+
+`React` `TypeScript` `AI`
+
+웹 UI
+API 연동
+AI 기능 연결
+서비스 기획
+발표
+
+  </td>
+  </tr>
+</table>
+
+<br />
+
+| 프로젝트                                                               | 설명                           | 주요 역할                         |
+| ------------------------------------------------------------------ | ---------------------------- | ----------------------------- |
+| [`project-arnnect`](https://github.com/yooneverse/project-arnnect) | 신진 예술인의 작품과 전시 경험을 연결한 웹 서비스 | UX 흐름 · 웹 UI · 비주얼 구성 · 발표    |
+| [`project_ILU`](https://github.com/yooneverse/project_ILU)         | 사용자 성향과 기업 데이터를 연결한 추천 서비스   | 데이터 분석 · 추천 흐름 · 서비스 기획       |
+| [`maeulbot`](https://github.com/yooneverse/maeulbot)               | 일정과 공지 전달을 위한 알림 자동화 프로젝트    | GitHub Actions · 업무 자동화 · 문서화 |
+
+---
+
+## 대표 프로젝트
+
+<div align="center">
+
+### [`ops-monitor`](https://github.com/yooneverse/ops-monitor)
+
+**서비스 실행 환경과 장애 대응 흐름을 직접 구성한 개인 프로젝트**
+
+<br />
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+</div>
+
+<br />
+
+Docker Compose 기반으로 FastAPI, PostgreSQL, Nginx를 연결하고  
+서비스 상태 점검, 로그 확인, 장애 알림 흐름을 구성했습니다.
+
+- API 및 DB Health Check
+- Nginx 리버스 프록시 구성
+- Discord 장애 알림
+- 장애 상황 재현 및 로그 확인
+- 트러블슈팅과 운영 과정 문서화
+
+```mermaid
+flowchart LR
+    U["사용자 요청"] --> N["Nginx"]
+    N --> A["FastAPI"]
+    A --> D[("PostgreSQL")]
+
+    H["Health Check"] --> A
+    H --> D
+    H --> W["Discord Alert"]
+
+    classDef default fill:#F8FAFC,stroke:#94A3B8,color:#0F172A,stroke-width:1px;
+    classDef point fill:#EFF6FF,stroke:#2563EB,color:#0F172A,stroke-width:1.5px;
+
+    class U,H,W default;
+    class N,A,D point;
+```
+
+> 상세 구조와 장애 대응 기록은 프로젝트 저장소에서 확인할 수 있습니다.
+
+---
+
+## 경험
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/User%20Flow-FF7A59?style=flat-square&logoColor=white" />
+### 카카오 장소 데이터 운영
 
-### User Flow
-
-* 사용자의 행동 순서를 기준으로 화면과 기능을 설계합니다.
-* 로딩, 빈 화면, 오류, 예외 상황까지 포함해 흐름을 정리합니다.
-* 사용자가 다음 행동을 자연스럽게 이어갈 수 있는 구조를 중요하게 봅니다.
+* 15개월간 월 250건 이상의 장소 데이터 검토
+* 폐업, 이전, 중복 등록, 카테고리 오류 확인
+* 반복 오류를 11개 유형으로 분류
+* 데이터 검토 기준과 처리 흐름 정리
 
   </td>
     <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Collaboration%20Flow-3B82F6?style=flat-square&logoColor=white" />
+### 삼성 청년 SW·AI 아카데미
 
-### Collaboration Flow
-
-* 팀원이 같은 기준으로 이해할 수 있도록 문서와 규칙을 정리합니다.
-* 브랜치 전략, 커밋 컨벤션, 화면 명세, API 명세를 협업 흐름에 맞게 관리합니다.
-* 기획과 구현 사이의 해석 차이를 줄이는 데 집중합니다.
+* 웹·모바일·AI 프로젝트 수행
+* 팀장과 PM으로 일정·역할·산출물 관리
+* 프론트엔드 및 백엔드 개발 참여
+* 화면 명세 및 API 명세 작성
+* 최종 발표와 발표 자료 제작
 
   </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Data%20Flow-F59E0B?style=flat-square&logoColor=white" />
+### 서울시 공공 서비스 프로젝트
 
-### Data Flow
-
-* 사용자 요청과 서비스 데이터를 연결해 기능 흐름을 설계합니다.
-* 추천, 검색, 음성 입력, AI 응답이 실제 기능 실행으로 이어지는 구조를 이해합니다.
-* 감이 아니라 데이터와 근거를 바탕으로 개선 방향을 정리합니다.
+* 시민 220여 명의 의견 수집 및 분류
+* 이용 과정의 불편 사항 분석
+* 서비스 기능과 안내 정보의 우선순위 설계
+* 6억 5천만 원 규모 사업 예산안 작성
+* 서울특별시장상 창의상 수상
 
   </td>
     <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Operation%20Flow-14B8A6?style=flat-square&logoColor=white" />
+### 문화체육관광부 대학생 기자단
 
-### Operation Flow
-
-* 구현 이후에도 서비스가 유지될 수 있도록 실행 환경과 운영 기준을 함께 생각합니다.
-* 장애 상황에서 로그, 상태, 실행 흐름을 확인하며 문제 원인을 좁혀가는 방식을 학습합니다.
-* 반복 작업, 일정 알림, 자동화 흐름을 통해 팀의 부담을 줄입니다.
-* 개발, 문서화, 발표, 운영이 끊기지 않도록 전체 과정을 조율합니다.
+* 23명의 기사 주제와 취재 일정 관리
+* 제출 현황 및 확인 사항 정리
+* 일정 변경 공지와 진행 상황 공유
+* 구성원별 후속 업무 조율
 
   </td>
   </tr>
@@ -106,67 +260,44 @@
 
 ---
 
-## Tech Stack
+## 기술 스택
 
-프로젝트에서 맡은 역할에 따라 웹 화면 구현, 모바일 UI 구현, API 연동, AI 기능 연결, 운영 자동화까지 함께 경험했습니다.
-기술 자체보다 사용자의 행동 흐름과 팀의 협업 구조 안에서 기술이 어떻게 연결되는지를 중심으로 다뤘습니다.
-
-### Web / Mobile UI
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
-</p>
-
-* API 응답 상태, 로딩, 빈 화면, 예외 상황을 고려해 사용자가 다음 행동을 이어갈 수 있도록 화면 흐름을 정리했습니다.
-
-### Backend / API / Database
-
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" />
-</p>
-
-* 프론트엔드 화면에서 필요한 데이터를 기준으로 API 요청과 응답 구조를 이해하고 연동했습니다.
-
-### AI / Data
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logoColor=111827" />
-  <img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/STT%2FLLM%2FTTS-111827?style=flat-square&logoColor=white" />
-</p>
-
-* AI 기술을 모델 단위로만 보지 않고, 사용자 요청이 실제 기능 실행으로 이어지는 흐름으로 이해했습니다.
-
-### Infra / Automation
+### 인프라·운영
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/BentoML-2563EB?style=flat-square&logoColor=white" />
 </p>
 
-* 컨테이너 실행, 로그 확인, 상태 점검을 통해 서비스가 멈췄을 때 원인을 좁혀가는 과정을 경험했습니다.
-* Docker Compose를 활용해 여러 서비스를 함께 실행하는 구조를 이해했습니다.
-* GitHub Actions를 활용해 일정 알림, 반복 작업, 자동 실행 흐름을 구성했습니다.
+Docker Compose로 다중 컨테이너 환경을 구성하고, Nginx 요청 전달과 로그 기반 장애 확인을 경험했습니다.
 
-### Collaboration / Design Tool
+### 백엔드·데이터베이스
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+API 요청·응답과 데이터 저장 흐름을 구현하고, 애플리케이션과 DB 연결 상태를 점검했습니다.
+
+### 웹·모바일
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+</p>
+
+웹·모바일 UI를 구현하고 API 응답, 로딩, 오류 상태가 사용자 흐름과 연결되도록 구성했습니다.
+
+### 협업·문서화
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -174,36 +305,30 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
-* 팀장과 발표자 역할을 맡으며 기획, 구현, 문서화, 발표 흐름이 끊기지 않도록 조율했습니다.
-* 브랜치 전략, 커밋 컨벤션, 화면 명세, API 명세를 문서로 정리했습니다.
-* Jira와 Notion을 활용해 일정, 역할, 진행 상태를 팀 단위로 공유했습니다.
-* Figma를 활용해 화면 흐름과 사용자 동선을 정리하고, 구현자 간 해석 차이를 줄였습니다.
+일정과 역할, 화면 명세, API 명세를 공유해 팀이 같은 기준으로 작업할 수 있도록 관리했습니다.
 
----
 
-## Work Principles
-
-* 사용자 행동을 기준으로 문제를 정의합니다.
-* 화면보다 먼저 전체 흐름을 설계합니다.
-* 예외 상황을 줄이는 구조를 만듭니다.
-* 기준과 과정을 문서로 남깁니다.
-* 데이터와 근거를 바탕으로 개선합니다.
-* 팀원이 같은 방향을 볼 수 있게 협업 기준을 정리합니다.
-
----
+<br />
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,50:2563EB,100:0F172A&height=3&section=footer" width="100%" />
+
+<br />
+<br />
+
+### 김지윤
+
+**서비스 흐름 · 프로젝트 운영 · 인프라**
+
+<br />
 
 <a href="https://github.com/yooneverse">
   <img src="https://img.shields.io/badge/GitHub-yooneverse-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br />
-<br />
-
-<sub>I design service flows, collaboration structures, and small systems that help people move forward.</sub>
 
 </div>
