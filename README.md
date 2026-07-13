@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/badge/Planning-334155?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/AX-2563EB?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Project%20Planning-256311?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Project%20Managing-256311?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Infra-0891B2?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Documentation-0F766E?style=for-the-badge&logoColor=white" />
 
