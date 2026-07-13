@@ -103,15 +103,15 @@ flowchart LR
 
 ### [`ops-monitor`](https://github.com/yooneverse/ops-monitor)
 
-**Docker 기반 서비스 상태 점검 및 장애 알림 프로젝트**
+**서비스 운영·장애 대응 흐름 설계 AX 인프라 프로젝트**
 
 `Docker` `Nginx` `FastAPI` `PostgreSQL`
 
-실행 환경 구성
-Health Check
-로그 분석
-장애 알림
-운영 문서화
+- 실행 환경 구성
+- Health Check
+- 로그 분석
+- 장애 알림
+- 운영 문서화
 
   </td>
     <td width="33%" valign="top">
@@ -122,11 +122,11 @@ Health Check
 
 `Kotlin` `Android` `Accessibility`
 
-팀장 및 PM
-모바일 UI
-접근성 화면
-API 연동
-최종 발표
+- 팀장 및 PM
+- 모바일 UI/UX 설계
+- 접근성 화면
+- API 연동
+- 최종 발표
 
   </td>
     <td width="33%" valign="top">
@@ -137,11 +137,11 @@ API 연동
 
 `React` `TypeScript` `AI`
 
-웹 UI
-API 연동
-AI 기능 연결
-서비스 기획
-발표
+- 웹 UI
+- API 연동
+- AI 기능 연결
+- 서비스 기획
+- 발표
 
   </td>
   </tr>
@@ -161,11 +161,11 @@ AI 기능 연결
 
 <div align="center">
 
+<sub>AX · Infra · Ops · Documentation</sub>
+
 ### [`ops-monitor`](https://github.com/yooneverse/ops-monitor)
 
-**서비스 운영 기반 구축 및 장애 대응 흐름 설계 프로젝트**
-
-<sub>AX · Infra · Ops · Documentation</sub>
+**서비스 운영·장애 대응을 위한 AX 기반 인프라 프로젝트**
 
 <br />
 
