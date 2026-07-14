@@ -9,10 +9,9 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/Team%20Lead-334155?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/PM-2563EB?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Frontend-0F766E?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Ops-0891B2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AX-0891B2?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Documentation-14B8A6?style=for-the-badge&logoColor=white" />
 
 <br />
