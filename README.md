@@ -2,23 +2,21 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:14B8A6&height=260&section=header&text=%EA%B9%80%EC%A7%80%EC%9C%A4&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Service%20Flow%20%C2%B7%20Planning%20%C2%B7%20Operations&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:14B8A6&height=260&section=header&text=%EA%B9%80%EC%A7%80%EC%9C%A4&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=Portfolio&descAlignY=60&animation=fadeIn" width="100%" />
 
 ### 서비스의 흐름을 이해하고  
 ### 문제를 실행 가능한 구조로 정리합니다.
 
 <br />
 
-<img src="https://img.shields.io/badge/Planning-334155?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/AX-2563EB?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Project%20Managing-0F766E?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Infra%20Flow-0891B2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Team%20Lead-334155?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/PM-2563EB?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Frontend-0F766E?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Ops-0891B2?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Documentation-14B8A6?style=for-the-badge&logoColor=white" />
 
 <br />
 <br />
-
-<sub>서비스 기획 · 개발 · 운영 · 문서화</sub>
 </div>
 
 <br />
