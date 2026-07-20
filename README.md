@@ -9,7 +9,7 @@
 <br />
 
 <img src="https://img.shields.io/badge/PM-2563EB?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Planning-0B055A2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Planning-334155?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Frontend-0F766E?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/AX-0891B2?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Documentation-14B8A6?style=for-the-badge&logoColor=white" />
@@ -324,8 +324,11 @@ API 요청·응답과 데이터 저장 흐름을 구현하고, 애플리케이�
 
 <p><strong>서비스 흐름 설계 · 프로젝트 운영 · 인프라</strong></p>
 
-<a href="https://github.com/yooneverse">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28" alt="GitHub" />
-</a>
+<p>
+  <a href="https://github.com/yooneverse">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28" alt="GitHub" />
+  </a>
+</p>
+<sub><a href="https://github.com/yooneverse">yooneverse</a></sub>
 
 </div>
