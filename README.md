@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:14B8A6&height=260&section=header&text=%EA%B9%80%EC%A7%80%EC%9C%A4&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=Portfolio&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:14B8A6&height=260&section=header&text=%EA%B9%80%EC%A7%80%EC%9C%A4&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=&descAlignY=60&animation=fadeIn" width="100%" />
 
 ### 서비스의 흐름을 이해하고 문제를 실행 가능한 구조로 정리합니다.
 
