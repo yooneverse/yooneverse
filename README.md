@@ -22,7 +22,6 @@
 
 ## 소개
 
-
 > **사용자와 기술 사이의 흐름을 이해하고,  
 > 문제가 발생했을 때 원인과 다음 행동을 정리합니다.**
 
@@ -326,9 +325,9 @@ API 요청·응답과 데이터 저장 흐름을 구현하고, 애플리케이�
 
 <p>
   <a href="https://github.com/yooneverse">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28" alt="GitHub" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24" alt="GitHub" />
   </a>
 </p>
-<sub><a href="https://github.com/yooneverse">yooneverse</a></sub>
+<p><strong><a href="https://github.com/yooneverse">yooneverse</a></strong></p>
 
 </div>
