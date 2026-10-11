@@ -132,7 +132,6 @@
 
 <strong>Focus</strong> · 상태 확인 → 이상 감지 → 알림 → 기록 → 검증<br /><br />
 
-<a href="https://github.com/yooneverse/ops-monitor"><strong>Repo</strong></a>
 </td>
 </tr>
 </table>
@@ -163,7 +162,6 @@
 
 <strong>Focus</strong> · 사용자 흐름을 기준으로 역할과 개발 범위를 다시 연결<br /><br />
 
-<a href="https://github.com/yooneverse/project-eumgil"><strong>Repo</strong></a>
 </td>
 </tr>
 </table>
@@ -178,7 +176,6 @@
 <sub>PLAN</sub>
 </td>
 <td width="86%" valign="top">
-<strong><a href="https://github.com/yooneverse/project-aekkim">project-aekkim</a></strong><br />
 <strong>정보 안내부터 프로모션 탐색까지 연결한 구독 관리 서비스</strong><br /><br />
 
 <code>React</code> <code>TypeScript</code> <code>GitHub Actions</code> <code>Jira</code> <code>Webhook</code><br /><br />
@@ -195,7 +192,6 @@
 
 <strong>Focus</strong> · 사용자에게 보이는 흐름과 팀이 협업하는 흐름을 함께 설계<br /><br />
 
-<a href="https://github.com/yooneverse/project-aekkim"><strong>Repo</strong></a>
 </td>
 </tr>
 </table>
