@@ -176,6 +176,7 @@
 <sub>PLAN</sub>
 </td>
 <td width="86%" valign="top">
+<strong><a href="https://github.com/yooneverse/project-aekkim">project-aekkim</a></strong><br />
 <strong>정보 안내부터 프로모션 탐색까지 연결한 구독 관리 서비스</strong><br /><br />
 
 <code>React</code> <code>TypeScript</code> <code>GitHub Actions</code> <code>Jira</code> <code>Webhook</code><br /><br />
